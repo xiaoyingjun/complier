@@ -1,0 +1,8 @@
+﻿  main.cpp
+c:\users\lenovo\desktop\grammarparser\grammarparser\grammarparser\grammarparser\main.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\lenovo\desktop\grammarparser\grammarparser\grammarparser\grammarparser\main.cpp(1145): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\lenovo\desktop\grammarparser\grammarparser\grammarparser\grammarparser\main.cpp(976): warning C4715: “halfassign”: 不是所有的控件路径都返回值
+c:\users\lenovo\desktop\grammarparser\grammarparser\grammarparser\grammarparser\main.cpp(1687): warning C4715: “factor”: 不是所有的控件路径都返回值
+c:\users\lenovo\desktop\grammarparser\grammarparser\grammarparser\grammarparser\main.cpp(1739): warning C4715: “mystruct”: 不是所有的控件路径都返回值
+  GrammarParser.vcxproj -> C:\Users\lenovo\Desktop\GrammarParser\GrammarParser\GrammarParser\Debug\GrammarParser.exe
+  GrammarParser.vcxproj -> C:\Users\lenovo\Desktop\GrammarParser\GrammarParser\GrammarParser\Debug\GrammarParser.pdb (Partial PDB)
